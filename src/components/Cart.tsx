@@ -18,7 +18,7 @@ export const Cart = () => {
                 removeFromCart(item.id);
               }}
             >
-              Add to Cart
+              Remove from Cart
             </button>
           </li>
         ))}
